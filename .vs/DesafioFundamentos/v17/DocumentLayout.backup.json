@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|c:\\users\\pichau\\source\\repos\\desafiofundamentos\\desafiofundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|solutionrelative:desafiofundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|c:\\users\\pichau\\source\\repos\\desafiofundamentos\\desafiofundamentos\\desafio1\\exercicio4 .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|solutionrelative:desafiofundamentos\\desafio1\\exercicio4 .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|c:\\users\\pichau\\source\\repos\\desafiofundamentos\\desafiofundamentos\\desafio1\\exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|solutionrelative:desafiofundamentos\\desafio1\\exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|c:\\users\\pichau\\source\\repos\\desafiofundamentos\\desafiofundamentos\\desafio1\\exercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|solutionrelative:desafiofundamentos\\desafio1\\exercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|c:\\users\\pichau\\source\\repos\\desafiofundamentos\\desafiofundamentos\\desafio1\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|solutionrelative:desafiofundamentos\\desafio1\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|c:\\users\\pichau\\source\\repos\\desafiofundamentos\\desafiofundamentos\\desafio1\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|solutionrelative:desafiofundamentos\\desafio1\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|c:\\users\\pichau\\source\\repos\\desafiofundamentos\\desafiofundamentos\\desafio1\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03C43C-F203-4F70-87E5-77853497B007}|DesafioFundamentos\\DesafioFundamentos.csproj|solutionrelative:desafiofundamentos\\desafio1\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Desafio1\\Exercicio1.cs",
+              "RelativeDocumentMoniker": "DesafioFundamentos\\Desafio1\\Exercicio1.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Desafio1\\Exercicio1.cs",
+              "RelativeToolTip": "DesafioFundamentos\\Desafio1\\Exercicio1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T01:30:46.881Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Desafio1\\Exercicio2.cs",
+              "RelativeDocumentMoniker": "DesafioFundamentos\\Desafio1\\Exercicio2.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Desafio1\\Exercicio2.cs",
+              "RelativeToolTip": "DesafioFundamentos\\Desafio1\\Exercicio2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T02:03:18.14Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Desafio1\\Exercicio5.cs",
+              "RelativeDocumentMoniker": "DesafioFundamentos\\Desafio1\\Exercicio5.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Desafio1\\Exercicio5.cs",
+              "RelativeToolTip": "DesafioFundamentos\\Desafio1\\Exercicio5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:38:17.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio4 .cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Desafio1\\Exercicio4 .cs",
+              "RelativeDocumentMoniker": "DesafioFundamentos\\Desafio1\\Exercicio4 .cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Desafio1\\Exercicio4 .cs",
+              "RelativeToolTip": "DesafioFundamentos\\Desafio1\\Exercicio4 .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:30:51.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioFundamentos\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Program.cs",
+              "RelativeToolTip": "DesafioFundamentos\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T01:05:30.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercicio6.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Desafio1\\Exercicio6.cs",
+              "RelativeDocumentMoniker": "DesafioFundamentos\\Desafio1\\Exercicio6.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Desafio1\\Exercicio6.cs",
+              "RelativeToolTip": "DesafioFundamentos\\Desafio1\\Exercicio6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:38:26.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Desafio1\\Exercicio3.cs",
+              "RelativeDocumentMoniker": "DesafioFundamentos\\Desafio1\\Exercicio3.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\DesafioFundamentos\\DesafioFundamentos\\Desafio1\\Exercicio3.cs",
+              "RelativeToolTip": "DesafioFundamentos\\Desafio1\\Exercicio3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:28:12.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
