@@ -1,1 +1,1 @@
-Primeiro desafio pratico da Rocktseat.
+Desafio pratico da Rocktseat.
