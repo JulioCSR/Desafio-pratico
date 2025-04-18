@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioFundamentos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c627ad8fff804f00588c694e46bcd7f94dfc276")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioFundamentos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioFundamentos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

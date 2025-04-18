@@ -12,3 +12,4 @@ C:\Users\Pichau\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net
 C:\Users\Pichau\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.pdb
 C:\Users\Pichau\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.genruntimeconfig.cache
 C:\Users\Pichau\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net8.0\ref\DesafioFundamentos.dll
+C:\Users\Pichau\source\repos\DesafioFundamentos\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.sourcelink.json
